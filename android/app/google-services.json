@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671013792437",
+    "project_id": "firelogin-ec527",
+    "storage_bucket": "firelogin-ec527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671013792437:android:5c357224690398add72cfc",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671013792437-j95743agqk9v2mnqa0qjjet27r5lqcbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDydVrGbvUXfFu8FD17x_9Zg9ykJ26vP5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671013792437-j95743agqk9v2mnqa0qjjet27r5lqcbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
